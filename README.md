@@ -67,8 +67,8 @@ When deploying this application to a Cloud VM (e.g., Azure VM, AWS EC2, Google C
 
 ```bash
 # 1. Clone the repository and navigate to the directory
-# git clone <your-repo-url>
-# cd ORGN4210_Week07_RAG_Leeds_Starter_Streamlit
+# git clone https://github.com/iportilla/ai-leeds.git
+# cd ai-leeds
 
 # 2. Create and activate a virtual environment named 'penv'
 python3 -m venv penv
